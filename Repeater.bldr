@@ -1,0 +1,7 @@
+FLASH Enter character
+BETA
+FLASH Repeat how many times?
+BETA
+TRAVERSE 
+MATCH
+END TRAVERSE
